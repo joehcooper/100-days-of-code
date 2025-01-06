@@ -383,3 +383,11 @@ I also finished the [Learn HTML Forms by Building a Registration Form](https://w
   - [Step 63](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-63)
   - [Step 64](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-64)
   - [Step 65](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-65)
+
+## R1D06
+
+**Date:** 06/01/2025
+
+I started work on the [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) certification project on freeCodeCamp. I also continued to work on my Scratch project for CS50x.
+
+
