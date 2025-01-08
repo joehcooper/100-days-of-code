@@ -395,3 +395,9 @@ I started work on the [Survey Form](https://www.freecodecamp.org/learn/2022/resp
 **Date:** 07/01/2025
 
 I continued work on the [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) certification project on freeCodeCamp, which is now mostly finished. I also did some more work on my Scratch project for CS50x, including cleaning up some of the logic into blocks to make it a little cleaner.
+
+## R1D08
+
+**Date:** 08/01/2025
+
+I finished the [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) certification project and submitted it. I also published a repository on Github to showcase my [freeCodeCamp projects](https://github.com/joehcooper/freecodecamp-projects).
