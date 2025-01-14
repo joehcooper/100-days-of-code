@@ -598,3 +598,9 @@ I installed Neovim and started to learn how to use Vim to edit files. It's defin
   - [Step 13](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-13)
   - [Step 14](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-14)
   - [Step 15](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz/step-15)
+
+## R1D14
+
+**Date:** 14/01/2025
+
+I practiced C for CS50x and continued to work through setting up and using Vim. I update my dotfiles repo to allow me to be able to use the same vim setup across machines easily.
